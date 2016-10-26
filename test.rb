@@ -24,3 +24,11 @@ when 26
 else
   "Cool, youre an age."
 end
+
+def menu
+  puts "MENU"
+  puts "1: Show Name"
+  puts "2: Show Age"
+  puts "3: Show Info"
+  puts "4: Exit"
+end
